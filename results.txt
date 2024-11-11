@@ -1,0 +1,10 @@
+Computer Name: Julius-Thinkbook-15
+Date of Test: 2024-11-11 14:09:51
+Bubble Sort Time: 3.867270 seconds
+Quick Sort Time: 0.010175 seconds
+
+Computer Name: Julius-Thinkbook-15
+Date of Test: 2024-11-11 14:10:06
+Bubble Sort Time: 3.793882 seconds
+Quick Sort Time: 0.009708 seconds
+
