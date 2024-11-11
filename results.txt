@@ -8,3 +8,8 @@ Date of Test: 2024-11-11 14:10:06
 Bubble Sort Time: 3.793882 seconds
 Quick Sort Time: 0.009708 seconds
 
+Computer Name: Moritz-Laptop
+Date of Test: 2024-11-11 14:14:33
+Bubble Sort Time: 8.001737 seconds
+Quick Sort Time: 0.019405 seconds
+
